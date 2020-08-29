@@ -52,7 +52,7 @@ Feed the binary with these two input:
 
 Here is the result
 
-![image-20200829145615910](C:\Users\vikyc\Documents\myWriteups\googlectf2020\reversing\beginner\image-20200829145615910.png)
+![alt test](https://github.com/vikychoi/myWriteups/blob/master/reversing/beginner/image-20200829145615910.png)
 
 The input is compared with:
 
